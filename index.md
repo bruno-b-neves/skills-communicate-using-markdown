@@ -12,3 +12,6 @@ var myVar = "Olá, mundo!";
 ola_mundo = str('Olá mundo')
 print(ola_mundo)
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
